@@ -18,5 +18,4 @@ def global_stretching(img_L,height, width):
 
     return array_Global_histogram_stretching_L
 
-HEIGHT 187CMS WIDTH 456LENGHT
-IMPORT DD 
+

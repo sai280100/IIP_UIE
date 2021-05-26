@@ -13,4 +13,4 @@ def stretching(img):
             for j in range(width):
                 img[i,j,k] = (img[i,j,k] - Min_channel) * (255 - 0) / (Max_channel - Min_channel)+ 0
     return img
-HEIGHT(1799CM) DD WEIGHT(1954KGS)
+
